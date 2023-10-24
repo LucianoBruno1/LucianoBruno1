@@ -11,6 +11,7 @@ Estudante de Análise e Desenvolvimento de Sistemas
   <img align="center" alt="Luciano-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Luciano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Luciano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="Luciano-SQL" height="30" width="40" src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png">
   
   </div>
   
