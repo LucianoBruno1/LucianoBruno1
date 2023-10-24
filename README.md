@@ -7,10 +7,11 @@ Estudante de Análise e Desenvolvimento de Sistemas
 </div>
 
 <div style="display: inline_block"><br>
+  
   [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,sql,cs,dotnet,git,github,mysql,postgres,py,js)](https://skillicons.dev)
   </div>
   
-  ##
+
   
   <div> 
 
