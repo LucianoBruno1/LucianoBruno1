@@ -1,4 +1,40 @@
-Estudante de Análise e Desenvolvimento de Sistemas
+# 👋 Olá!
+
+Sou um desenvolvedor **full stack** apaixonado por tecnologia, com experiência prática em desenvolvimento web, análise de dados e aprendizado de máquina. Ao longo da minha jornada, venho construindo soluções eficientes e modernas utilizando:
+
+- 🐍 **Python** no backend (com Django e Flask)
+- 🌐 **HTML**, **CSS** e **JavaScript** no frontend
+- 💡 Boas práticas em **UI/UX**
+- 🧠 Projetos com **Machine Learning**
+- 🛠️ Banco de dados como PostgreSQL, Firebase e outros
+- 🔧 APIs REST, integração com serviços externos e automações
+
+## 💼 Experiência Acadêmica e Projetos
+
+🎓 Desenvolvi projetos acadêmicos como:
+- Sistema de previsão com MLP e LSTM para classificação de clima, usando aprendizado profundo.
+- Software de gerenciamento de um cinema
+- APP mobile para registro de viagens e momentos inesquecíveis
+- chat web
+- dentre outros
+
+💻 Também trabalhei em diversos projetos práticos, como sistemas completos com cadastro de usuários, envio de e-mails automáticos, controle de licenças ambientais, e mais.
+
+## 🚀 Buscando sempre evoluir!
+
+Atualmente continuo me aperfeiçoando em novas tecnologias, frameworks modernos e boas práticas de desenvolvimento. Estou aberto a colaborações e novas oportunidades.
+
+---
+
+📫 **Entre em contato:**  
+- Email: [luciaanobruno@gmail.com](mailto:luciaanobruno@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/luciano-bruno-8b2730235/)  
+- [Instagram](https://www.instagram.com/luciaano_bruno)  
+- [GitHub](https://github.com/LucianoBruno1)
+
+---
+⭐ Obrigado por visitar meu perfil!
+
 
 <div align="center">
   <a href="https://github.com/LucianoBruno1">
