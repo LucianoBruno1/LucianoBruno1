@@ -44,7 +44,7 @@ Atualmente continuo me aperfeiçoando em novas tecnologias, frameworks modernos 
 
 <div style="display: inline_block"><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,cs,dotnet,git,github,mysql,postgres,py,js)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,cs,dotnet,git,github,mysql,postgres,py,js,django,kotlin,androidstudio)](https://skillicons.dev)
   </div>
   
 
