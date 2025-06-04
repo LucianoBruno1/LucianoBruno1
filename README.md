@@ -1,5 +1,7 @@
 # 👋 Olá!
 
+Portfólio: https://lucianobruno1.github.io/portfolio/pages/index.html
+
 Sou um desenvolvedor **full stack** apaixonado por tecnologia, com experiência prática em desenvolvimento web, análise de dados e aprendizado de máquina. Ao longo da minha jornada, venho construindo soluções eficientes e modernas utilizando:
 
 - 🐍 **Python** no backend (com Django e Flask)
@@ -31,6 +33,7 @@ Atualmente continuo me aperfeiçoando em novas tecnologias, frameworks modernos 
 - [LinkedIn](https://www.linkedin.com/in/luciano-bruno-8b2730235/)  
 - [Instagram](https://www.instagram.com/luciaano_bruno)  
 - [GitHub](https://github.com/LucianoBruno1)
+- [Portfólio](https://lucianobruno1.github.io/portfolio/pages/index.html)
 
 ---
 ⭐ Obrigado por visitar meu perfil!
