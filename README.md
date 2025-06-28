@@ -1,42 +1,67 @@
-# 👋 Olá!
 
-Portfólio: https://lucianobruno1.github.io/portfolio/pages/index.html
+<h1>👋 Hello!</h1>
 
-Sou um desenvolvedor **full stack** apaixonado por tecnologia, com experiência prática em desenvolvimento web, análise de dados e aprendizado de máquina. Ao longo da minha jornada, venho construindo soluções eficientes e modernas utilizando:
+<p>Portfolio: <a href="https://lucianobruno1.github.io/portfolio/pages/index.html" target="_blank">https://lucianobruno1.github.io/portfolio/pages/index.html</a></p>
 
-- 🐍 **Python** no backend (com Django e Flask)
-- 🌐 **HTML**, **CSS** e **JavaScript** no frontend
-- 💡 Boas práticas em **UI/UX**
-- 🧠 Projetos com **Machine Learning**
-- 🛠️ Banco de dados como PostgreSQL, Firebase e outros
-- 🔧 APIs REST, integração com serviços externos e automações
+<p>I’m a <strong>full stack developer</strong> passionate about technology, with hands-on experience in web development, data analysis, and machine learning. Throughout my journey, I’ve been building efficient and modern solutions using:</p>
 
-## 💼 Experiência Acadêmica e Projetos
+<ul>
+  <li>🐍 <strong>Python</strong> on the backend (with Django and Flask)</li>
+  <li>🌐 <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> on the frontend</li>
+  <li>💡 Good practices in <strong>UI/UX</strong></li>
+  <li>🧠 Projects with <strong>Machine Learning</strong></li>
+  <li>🛠️ Databases like PostgreSQL, Firebase, and others</li>
+  <li>🔧 REST APIs, external service integrations, and automations</li>
+</ul>
 
-🎓 Desenvolvi projetos acadêmicos como:
-- Sistema de previsão com MLP e LSTM para classificação de clima, usando aprendizado profundo.
-- Software de gerenciamento de um cinema
-- APP mobile para registro de viagens e momentos inesquecíveis
-- chat web
-- dentre outros
+<h2>💼 Academic Experience & Projects</h2>
 
-💻 Também trabalhei em diversos projetos práticos, como sistemas completos com cadastro de usuários, envio de e-mails automáticos, controle de licenças ambientais, e mais.
+<p>🎓 I’ve worked on academic projects such as:</p>
+<ul>
+  <li>Forecasting system using MLP and LSTM for weather classification with deep learning</li>
+  <li>Cinema management software</li>
+  <li>Mobile app for recording trips and unforgettable moments</li>
+  <li>Web chat system</li>
+  <li>And more...</li>
+</ul>
 
-## 🚀 Buscando sempre evoluir!
+<p>💻 I’ve also worked on several practical projects, including complete systems with user registration, automated email sending, environmental license management, and more.</p>
 
-Atualmente continuo me aperfeiçoando em novas tecnologias, frameworks modernos e boas práticas de desenvolvimento. Estou aberto a colaborações e novas oportunidades.
+<h2>🚀 Always striving to improve!</h2>
 
----
+<p>I’m currently continuing to improve my skills with new technologies, modern frameworks, and development best practices. I’m open to collaborations and new opportunities.</p>
 
-📫 **Entre em contato:**  
-- Email: [luciaanobruno@gmail.com](mailto:luciaanobruno@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/luciano-bruno-8b2730235/)  
-- [Instagram](https://www.instagram.com/luciaano_bruno)  
-- [GitHub](https://github.com/LucianoBruno1)
-- [Portfólio](https://lucianobruno1.github.io/portfolio/pages/index.html)
+<hr>
 
----
-⭐ Obrigado por visitar meu perfil!
+<h3>📫 Get in touch:</h3>
+
+<ul>
+  <li>Email: <a href="mailto:luciaanobruno@gmail.com">luciaanobruno@gmail.com</a></li>
+  <li><a href="https://www.linkedin.com/in/luciano-bruno-8b2730235/" target="_blank">LinkedIn</a></li>
+  <li><a href="https://www.instagram.com/luciaano_bruno" target="_blank">Instagram</a></li>
+  <li><a href="https://github.com/LucianoBruno1" target="_blank">GitHub</a></li>
+  <li><a href="https://lucianobruno1.github.io/portfolio/pages/index.html" target="_blank">Portfolio</a></li>
+</ul>
+
+<hr>
+
+<p>⭐ Thanks for visiting my profile!</p>
+
+<div align="center">
+  <a href="https://github.com/LucianoBruno1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoBruno1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoBruno1&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
+  </a>
+</div>
+
+<div style="display: inline_block"><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,cs,dotnet,git,github,mysql,postgres,py,js,django,kotlin,androidstudio" alt="My Skills"/>
+  </a>
+</div>
+
+</body>
+</html>
 
 
 <div align="center">
