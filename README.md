@@ -47,22 +47,6 @@
 
 <p>⭐ Thanks for visiting my profile!</p>
 
-<div align="center">
-  <a href="https://github.com/LucianoBruno1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoBruno1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoBruno1&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
-  </a>
-</div>
-
-<div style="display: inline_block"><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,cs,dotnet,git,github,mysql,postgres,py,js,django,kotlin,androidstudio" alt="My Skills"/>
-  </a>
-</div>
-
-</body>
-</html>
-
 
 <div align="center">
   <a href="https://github.com/LucianoBruno1">
@@ -74,6 +58,9 @@
   
   [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,cs,dotnet,git,github,mysql,postgres,py,js,django,kotlin,androidstudio)](https://skillicons.dev)
   </div>
+
+</body>
+</html>
   
 
   
